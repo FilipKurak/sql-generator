@@ -1,0 +1,4 @@
+# Syncron modules
+# https://packages.syncron.team/api/pypi/syncron-pypi/simple/
+xlrd==1.2.0
+openpyxl==2.4.7
